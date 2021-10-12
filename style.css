@@ -1,6 +1,7 @@
 body{
 	font-family: 'Open Sans',sans-serif;
-    background-image: url(./image/bg-2.jpg);
+    /* background-image: url(./image/bg-2.jpg); */
+	background-color: black;
     background-repeat:no-repeat;
     background-size: cover;
     
@@ -16,7 +17,7 @@ body{
 #calculator{
 	width: 320px;
 	height: 520px;
-	/* background-color: #eaedef; */
+	background-color: #eaedef;
 	margin: 0 auto;
 	top: 20px;
 	position: relative;
